@@ -1,0 +1,7 @@
+datetime
+pandas
+seaborn
+matplotlib
+scikit-learn
+catboost
+streamlit==1.22.0

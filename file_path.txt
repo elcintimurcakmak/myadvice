@@ -1,0 +1,2 @@
+cd Users\Lenovo\PycharmProjects\pythonProject\MY_LUDW_PROJECT\streamlit_canli
+streamlit run app.py
